@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SandwichFillings</key>
+	<array>
+		<dict>
+			<key>Dictionary</key>
+			<dict>
+				<key>ColourStyles</key>
+				<dict>
+					<key>Navigator</key>
+					<dict/>
+				</dict>
+				<key>CreditRapidWeaver</key>
+				<true/>
+				<key>DefaultLinkTarget</key>
+				<string></string>
+				<key>FilenameExtension</key>
+				<string>html</string>
+				<key>HasCustomThemeStyle</key>
+				<false/>
+				<key>ImageFormat</key>
+				<string>Original</string>
+				<key>ImageQuality</key>
+				<string>High</string>
+				<key>IndexFilename</key>
+				<string></string>
+				<key>OutputFormat</key>
+				<string>Default</string>
+				<key>OutputXMLDeclaration</key>
+				<false/>
+				<key>SidebarEnabled</key>
+				<integer>1</integer>
+				<key>TextEncoding</key>
+				<string>utf-8</string>
+				<key>ThemeStyles</key>
+				<dict>
+					<key>Navigator</key>
+					<array>
+						<string>Banner / Content Divider.None</string>
+						<string>Banner.Stock Banner 1</string>
+						<string>Body Font.Open Sans</string>
+						<string>Content Width.1,000 px</string>
+						<string>Headers Font.Open Sans</string>
+						<string>Logo Padding.30 px</string>
+						<string>Navigation Background &amp; Colors.Translucent Black</string>
+						<string>Navigation Effect Speed.Fast</string>
+						<string>Navigation Effect.Push Back</string>
+						<string>Navigation Toggles.Social Media Badges Below Navigation</string>
+						<string>Sidebar.Hidden</string>
+						<string>Site Title Alignment Above Navigation.Left</string>
+						<string>Site Title Font.Open Sans</string>
+						<string>Slogan Animation.Fade In - Downward</string>
+						<string>Slogan Animation.None</string>
+						<string>Slogan Background.White - 25%</string>
+						<string>Slogan Font.Open Sans</string>
+						<string>Theme Toggles.Hide Site Title Above Navigation</string>
+						<string>Theme Toggles.Hide Slogan at iPhone Width</string>
+						<string>Theme Toggles.Scroll to Top Button</string>
+						<string>Title Bar Background.Translucent White - 90%</string>
+						<string>Title Bar Elements Animation.Fade In - From Left and Right</string>
+					</array>
+				</dict>
+			</dict>
+			<key>Files</key>
+			<array/>
+			<key>Subsandwiches</key>
+			<array/>
+		</dict>
+	</array>
+	<key>Type</key>
+	<string>Page Attributes</string>
+</dict>
+</plist>
